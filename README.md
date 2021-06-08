@@ -1,2 +1,2 @@
 # PaperReading
-The PPTs of the PaperReading of our group!
+The slides of the PaperReading of our group!
