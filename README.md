@@ -1,2 +1,3 @@
 # PaperReading
-The slides of the PaperReading of our group!
+
+This repository contains the slides presented by our members on weekly discussion classes. 
