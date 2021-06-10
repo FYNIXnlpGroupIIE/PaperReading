@@ -1,3 +1,3 @@
 # PaperReading
 
-This repository contains the slides presented by our members on weekly discussion classes. 
+This repository contains the slides presented by our members on weekly discussing meetings. 
